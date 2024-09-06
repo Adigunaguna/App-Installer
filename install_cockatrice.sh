@@ -4,7 +4,7 @@
 
 # Default values to edit
 #Enter URL to appimage
-url="https://github.com/phoenixbyrd/App-Installer/raw/main/cockatrice.deb"
+url="https://github.com/Adigunaguna/App-Installer/raw/main/cockatrice.deb"
 #Enter name of app
 appname="cockatrice"
 #Enter path to icon or system icon name
